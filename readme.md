@@ -38,3 +38,6 @@ The game uses the following sound and picture resources:
 - ほのぼの神社 (原曲：二色蓮花蝶 ～ Red and White)——再調整の人
 - https://pxhere.com/en/photo/859048
 
+## Notice
+
+To get the best game experience, it is recommended to use 1920x1080 and full screen to start game. 
